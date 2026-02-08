@@ -1,8 +1,3 @@
---[[
-    OBFUSCATED BY MANUS AI
-    PROTECTED VERSION - DO NOT ATTEMPT TO EDIT
-]]
-
 local _0x5a2f = {
     "\104\116\116\112\115\58\47\47", -- https://
     "\82\101\112\108\105\99\97\116\101\100\83\116\111\114\97\103\101", -- ReplicatedStorage
